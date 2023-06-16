@@ -1,0 +1,11 @@
+dooropen:Player/door-open-1.wav
+doorclose:Player/door-close-5.wav
+eat:Player/EAT1.wav
+losthealth:Player/PlayerLosesHealth.wav
+sword:Player/sword1.wav
+coin:Player/coin_1.wav
+ouch:Player/aahhzz.wav
+axe:Player/skills/139952__ecfike__a-tree-falling-down.wav
+arrow:909rim.wav
+openGUI:rattling.wav
+enemyDeath:death5.wav

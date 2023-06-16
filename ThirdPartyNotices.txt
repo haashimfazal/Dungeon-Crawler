@@ -1,0 +1,184 @@
+ThirdPartyAssets Sourced Tuesday 11am Group 7
+1. Sounds/Background/FREE MEDIEVAL BACKGROUND MUSIC (BURGLAR) [NO COPYRIGHT] [FREE DOWNLOAD].wav (https://soundcloud.com/kuromarumusic/free-medieval-background-music)
+2. Sounds/Player/12win1NL.wav https://vgcomposer.itch.io/action-rpg-music-free/purchase
+3. Sounds/Player/13gameover9NL.wav  https://vgcomposer.itch.io/action-rpg-music-free/purchase
+4. Sounds/Player/aahhzz.wav https://www.pacdv.com/sounds/voices-1.html
+5. Sounds/Player/coin_1.wav https://freesound.org/people/Skirox/sounds/167565/
+6. Sounds/Player/door-close-5.wav https://freesound.org/people/soundmary/sounds/117614/
+7. Sounds/Player/door-open-1.wav https://1soundfx.com/sound/58150-door-open-1
+8. Sounds/Player/EAT1.wav http://cd.textfiles.com/mmplatinum/SOUNDS/WAV/MOREWAV2/EAT1.WAV
+9. Sounds/Player/sword.1wav https://freesound.org/people/CpawsMusic/sounds/437116/
+10. Sounds/Player/skills/61307__mv4824__pick-axe.wav https://www.soundsnap.com/tags/pickaxe
+11. Sounds/Player/skills/139952__ecfike__a-tree-falling-down.wav https://freesound.org/people/ecfike/sounds/139952/
+12. Sounds/Player/skills/205516__everheat__axe-barrel2.wav https://www.soundsnap.com/tags/barrel
+13. Images/NPC/1.png http://pixelartmaker.com/art/65cb2427f5137eb
+14. Images/NPC/2.png http://pixelartmaker.com/art/ad73d1c3378696c
+15. Images/NPC/3.png  https://www.pngkin.com/pen/xwiTxh/
+16. Images/NPC/4.png https://forums.terraria.org/index.php?threads/new-npc-the-necromancer.38748/
+17. Images/NPC/5.png http://pixelartmaker.com/art/ce0ed83ef09671e
+18. Images/NPC/6.png http://pixelartmaker.com/art/e6f32a3b30cd3c0
+19. Images/G5 - food/apple.png https://www.flaticon.com/authors/freepik
+20. Images/G5 - food/beef.png http://www.freepik.com
+21. Images/G5 - food/pork.png https://www.flaticon.com/authors/freepik
+22. Images/G5 - food/ice-cube.png https://www.flaticon.com/authors/freepik
+23. Images/GG5 - food/golden-apple.png https://www.flaticon.com/authors/freepik
+24. Images/G5 - food/cabbage.png https://www.flaticon.com/authors/freepik
+25. Images/G5 - foodchicken.png https://www.flaticon.com/authors/freepik
+26. Images/G5 - food/dragon-fruit.png https://www.flaticon.com/free-icon/dragon-fruit_3830579?term=food&page=3&position=62&related_item_id=3830579
+27. Images/G5 - food/wheat.png http://www.freepik.com/
+28. Images/G5 - food/glass-of-water.png https://www.flaticon.com/authors/freepik
+29. Images/G5 - food/chilli.png https://www.flaticon.com/authors/good-ware
+30. Images/G6 - eating/love.png https://www.flaticon.com/
+31. Images/G6 - eating/like.png https://www.flaticon.com/authors/freepik
+32. Images/G6 - eating/water.png  www.flaticon.com
+33. Images/G7 - mining/coal.png https://www.flaticon.com/authors/freepik
+34. Images/G7 - mining/combustible.png https://www.flaticon.com/authors/photo3idea-studio
+35. Images/G7 - mining/coal(1).png https://www.flaticon.com/authors/smalllikeart
+36. Images/G7 - mining/mine.png https://smashicons.com/
+37. Images/G7 - mining/mining.png https://www.flaticon.com/authors/freepik
+38. Images/G7-mining/pickaxes https://bangbloom.itch.io/pickaxe-shield-chest-hammer-bottle-knife-cartoon
+39. pickaxe(1).png https://www.flaticon.com/authors/freepik
+40. Images/G7 - mining/gem.png https://www.flaticon.com/authors/freepik
+41. Images/G7 - mining/gem(1).png https://www.flaticon.com/authors/freepik
+42. Images/G7 - mining/gems.png https://www.flaticon.com/authors/freepik
+43. Images/G7 - mining/gems(1).png https://smashicons.com/
+44. Images/G7 - mining/crystal.png http://www.freepik.com/
+45. Images/G7 - mining/Emerald http://www.freepik.com/
+46. Images/G8 - woodcuting/wood.png https://www.flaticon.com/authors/freepik
+47. Images/G8 - woodcuting/board.png https://www.flaticon.com/authors/nikita-golubev
+48. Images/G8 - woodcutting/wood(1).png https://www.flaticon.com/authors/freepik
+49. Images/G8 - woodcuting/axe.png "https://www.flaticon.com/free-icon/axe_2897471?term=wood&page=2&position=78&related_item_id=2897471
+50. Images/G8 - woodcutting/axe(1).png https://www.flaticon.com/authors/freepik
+51. Images/G8 - woodcutting/wood(2).png https://www.flaticon.com/authors/freepi
+52. Images/G8 - woodcuting/woodland.png https://www.flaticon.com/authors/good-ware
+53. Images/G8 - woodcuting/pine.png https://www.flaticon.com/authors/freepik
+54. Images/G9 - things dropped on floor/door-key.png https://www.flaticon.com/authors/freepik
+55. Images/G9 - things dropped on floor/Key.png https://www.flaticon.com/authors/freepik
+56. Images/G9 - things dropped on floor/lock.png https://smashicons.com/
+57. Images/G9 - things dropped on floor/lock(1).png https://www.flaticon.com/authors/freepik
+58. Images/G9 - things dropped on floor/giftbox.png https://www.flaticon.com/authors/freepik
+59. Images/G9 - things dropped on floor/fruit-box.png https://www.flaticon.com/authors/freepik
+60. Images/G9 - things dropped on floor/urn.png https://www.flaticon.com/authors/freepik
+61. Images/G10 - fighting/axe.png https://www.flaticon.com/authors/smashicons
+62. Images/G10 - fighting/sword.png http://www.freepik.com/
+63. Images/G10 - fighting/Bullet.png http://www.dariusdan.com/
+64. Images/G10 - fighting/axe(1).png http://www.freepik.com/
+65. Images/G10 - fighting/ancient-weapon.png http://www.freepik.com/
+66. Images/G10 - fighting/archery.png https://www.flaticon.com/authors/freepik
+67. Images/G10 - fighting/archery(1).png https://www.flaticon.com/authors/freepik
+68. Images/G10 - fighting/arrow.png https://www.flaticon.com/authors/freepik
+69. Images/G10 - fighting/quiver.png https://www.flaticon.com/authors/freepik
+70. Images/G10 - fighting/archery(2).png http://www.freepik.com
+71. Images/G10 - fighting/quiver(2).png https://www.flaticon.com/authors/freepi
+72. Images/enemies/0 https://craftpix.net/freebies/free-warrior-4-direction-character-sprites/
+73. Images/enemies/1 https://craftpix.net/freebies/free-npc-character-pack-blacksmith-jeweler-sage-warlord/
+74. Images/enemies/2 https://craftpix.net/freebies/free-golems-chibi-2d-game-sprites/
+75. Images/enemies/3 https://craftpix.net/freebies/free-orc-ogre-and-goblin-chibi-2d-game-sprites
+76. Images/enemies/4 https://craftpix.net/freebies/free-fallen-angel-chibi-2d-game-sprites/
+77. Images/enemies/5 https://craftpix.net/freebies/free-reaper-man-chibi-2d-game-sprites/
+78. Images/enemies/6 https://craftpix.net/freebies/free-minotaur-tiny-style-2d-sprites/
+79. Images/enemies/7 https://craftpix.net/freebies/free-golem-tiny-style-2d-character-sprites/
+80. Images/enemies/8 https://craftpix.net/freebies/free-satyr-tiny-style-2d-sprites/
+81. Images/enemies/9 https://craftpix.net/freebies/free-wraith-tiny-style-2d-sprites/
+82. Images/logs https://beast-pixels.itch.io/crafting-materials
+83. Images/logs/wood.png https://www.flaticon.com/authors/freepik
+84. Images/logs/board.png https://www.flaticon.com/authors/nikita-golubev
+85. Images/player/ https://rvros.itch.io/animated-pixel-hero
+86. Images/rock https://kvsr.itch.io/stone/download/eyJleHBpcmVzIjoxNjEzNTE4MTAxLCJpZCI6NDM4MjExfQ%
+87. Images/trees https://danaida.itch.io/free-pixel-trees-32x32
+88. Images/Eating/G6-Eating/food https://cainos.itch.io/pixel-art-icon-pack-rpg
+89. Images/G7-mining/ores https://ilustragm.itch.io/set-gems-icon-01
+90. Images/G7-mining/gem.png https://www.flaticon.com/authors/freepik
+91. Images/G7-mining/gem(1).png https://www.flaticon.com/authors/freepik
+92. Images/G7-mining/ https://bangbloom.itch.io/pickaxe-shield-chest-hammer-bottle-knife-cartoon
+93. Images/G8-Woodcutting/axes https://bangbloom.itch.io/pickaxe-shield-chest-hammer-bottle-knife-cartoon 
+94. Images/G10-fighting/swords https://obipandawan.itch.io/pixel-sword-pack-200-swords
+95. Images/g10-fighting/boots https://jeevo.itch.io/dungeoneering-eq-icon-pack
+95. Images/g10-fighting/chestplate https://jeevo.itch.io/dungeoneering-eq-icon-pack
+96. Images/g10-fighting/helmets https://jeevo.itch.io/dungeoneering-eq-icon-pack
+97. Images/g10-fighting/legs https://jeevo.itch.io/dungeoneering-eq-icon-pack
+98. Images/g10-fighting/shields https://jeevo.itch.io/dungeoneering-eq-icon-pack
+99. Images/g10-fighting/bows https://stealthix.itch.io/pixel-bow-pack
+100. Images/Dungeon Tiers/ https://opengameart.org/content/dungeon-crawl-32x32-tiles
+101. Images/Bosses/Minotaur_01/PNG Sequences/Attacking/Minotaur_01_Attacking_000.png https://craftpix.net/freebies/free-minotaur-tiny-style-2d-sprites/
+102. Images/Bosses/Minotaur_02/PNG Sequences/Attacking/Minotaur_01_Attacking_000.png https://craftpix.net/freebies/free-minotaur-tiny-style-2d-sprites/
+103. Images/Bosses/Minotaur_03/PNG Sequences/Attacking/Minotaur_01_Attacking_000.png https://craftpix.net/freebies/free-minotaur-tiny-style-2d-sprites/
+104. Images/Bosses/Wraith_01/ https://craftpix.net/freebies/free-wraith-tiny-style-2d-sprites/
+105. Images/Bosses/Wraith_02/ https://craftpix.net/freebies/free-wraith-tiny-style-2d-sprites/
+106. Images/Bosses/Wraith_03/ https://craftpix.net/freebies/free-wraith-tiny-style-2d-sprites/
+
+
+All of the graphic tiles used in this program is the public 
+domain roguelike tileset "RLTiles".
+Some of the tiles have been modified by our team.
+
+You can find the original tileset at:
+http://rltiles.sf.net
+
+Craftpix.net License:
+
+FILE LICENSES
+1. PREMIUM AND PAID PRODUCTS
+Subject to your compliance with the terms and conditions of these Terms, CraftPix grants you a limited, non-exclusive, non-transferable license to all resources purchased from CraftPix store, without the right to sublicense contents.
+
+1.1 CAPABILITIES
+1.1.1 You can use, copy, adapt, modify, prepare derivative works based upon all purchased assets;
+1.1.2 You may use game assets as many times as you like;
+1.1.3 Distribution of source files is NOT permitted;
+1.1.4 You can sell and distribute games with our assets.
+1.2 FORBIDDEN
+1.2.1 You can NOT resell the source files (PNG, JPG, EPS, Adobe Illustrator, etc.) or slightly modified version of the art. You can not redistribute the art or modified version of the art in a manner that would make some or all of the art files useable to another end user via the app. For example, an app that uses the art as part of the game is fine. An app that allows the user to save or export a modified version of the artwork itself is not fine.
+1.3 SUPPLEMENT FOR ENTERPRISE LICENSE HOLDERS:
+1.3.1 CAPABILITIES
+1.3.1.1 Selling online courses containing graphics from https://craftpix.net {For example, at udemy.com, coursera.org}
+1.3.1.2 Creating your own online school, and selling your teaching materials there with the participation of graphics from https://craftpix.net
+1.3.1.3 Offline use of graphics in educational institutions (schools, colleges, universities, etc.)
+1.3.1.4 Build ready-made game templates using https://craftpix.net graphics (with retrievable data) and sell them on the following third-party sites:
+https://assetstore.unity.com/templates
+https://www.scirra.com/store/royalty-free-game-templates
+https://codecanyon.net/category/html5/games
+https://codecanyon.net/category/mobile/android/games
+https://www.sellmyapp.com
+Important! If you are creating your own online store with game templates, then the cost of the license is discussed individually (you need to contact our support).
+
+1.3.1.5 Edit the graphics for the purpose of your work and include in your projects (courses, templates, etc.) Example
+1.3.2 FORBIDDEN
+1.3.2.1 Add graphics from https://craftpix.net to your projects (courses, templates, etc.) that are not used in the project (course, template, etc.) in any way. The same goes for game templates and offline educational institutions. Example
+1.3.2.2 Add source files (vector is AI, EPS and raster is PSD) to your course or to other training materials, if working with these formats is not implied in your course or other training material. Example
+1.3.2.3 Add source files to your game template (vector is AI, EPS and raster is PSD) if the game template does not interact with these formats. Example
+1.3.2.4 You cannot distribute graphics separately from courses (training materials) and templates in any form.
+1.3.2.5 It is not allowed to distribute courses (training materials) and game templates for free if you used paid or premium graphic sets from the site https://craftpix.net
+1.3.2.6 It is forbidden to sell graphics under the guise of courses (training materials, templates, etc.) if the main value of the work is graphics. The main value should not be the graphics, but your product.
+The above points (section Prohibited) are unfair use of Craftpix.net graphics. In case of fraudulent use, we have the right to revoke the license.
+
+2. FREEBIE PRODUCTS
+2.1 CAPABILITIES
+2.1.1 You are permitted to use the resources in any number of personal and commercial projects for yourself or a client.
+2.1.2 You can modify the resources according to your requirements and include them into works such as game projects, elements for websites, applications, printed materials and others;
+2.1.3 You can sell and distribute games with our assets.
+No attribution or link back to this site is required, however any credit will be highly appreciated.
+
+2.2 FORBIDDEN
+2.2.1 You can NOT resell the art source files (PNG, JPG, EPS, Adobe Illustrator, etc) or slightly modified version of the art. You can not redistribute the art or modified version of the art in a manner that would make some or all of the art files useable to another end user via the app. For example, an app that uses the art as part of the play of the game is fine. An app that allows the user to save or export a modified version of the artwork itself is not fine.
+2.3. SUPPLEMENT FOR ENTERPRISE LICENSE HOLDERS:
+2.3.1 CAPABILITIES
+2.3.1.1 Selling online courses containing graphics from https://craftpix.net {For example, at udemy.com, coursera.org}
+2.3.1.2 Creating your own online school and selling your educational materials with the participation of graphics from https://craftpix.net
+2.3.1.3 Offline use of graphics in educational institutions (schools, colleges, universities, etc.).
+2.3.1.4 Build ready-made game templates using https://craftpix.net graphics (with retrievable data) and sell them on the following third-party sites:
+https://assetstore.unity.com/templates
+https://www.scirra.com/store/royalty-free-game-templates
+https://codecanyon.net/category/html5/games
+https://codecanyon.net/category/mobile/android/games
+https://www.sellmyapp.com
+Important! If you are creating your own online store with game templates, then the cost of the license is discussed individually (you need to contact our support).
+
+2.3.1.5 Edit the graphics for the purpose of your work and include in your projects (courses, templates, etc.) Example
+2.3.1.6 You can use the graphics from https://craftpix.net/freebies/ to create free projects (courses, templates, etc.) Example
+2.3.2 FORBIDDEN
+2.3.2.1 Add graphics from https://craftpix.net to your projects (courses, templates, etc.) that are not used in the project (course, template, etc.) in any way. The same goes for game templates and offline educational institutions. Example
+2.3.2.2 Add source files (vector is AI, EPS and raster is PSD) to your course or to other training materials, if working with these formats is not implied in your course or other training material. Example
+2.3.2.3 Add source files to your game template (vector is AI, EPS and raster is PSD) if the game template does not interact with these formats. Example
+2.3.2.4 You cannot distribute graphics separately from courses (training materials) and templates in any form.
+2.3.2.5 It is forbidden to sell graphics under the guise of courses (training materials, templates, etc.) if the main value of the work is graphics. The main value should not be the graphics, but your product.
+The above points (section Prohibited) are unfair use of Craftpix.net graphics. In case of fraudulent use, we have the right to revoke the license.
